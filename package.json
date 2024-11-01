@@ -1,0 +1,20 @@
+{
+  "name": "solidstart-endpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solidjs/start": "^1.0.6",
+    "jsonwebtoken": "^9.0.2",
+    "vinxi": "^0.4.3",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.6"
+  }
+}
