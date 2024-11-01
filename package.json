@@ -1,13 +1,13 @@
 {
-  "name": "solidstart-endpoint",
-  "version": "1.0.0",
+  "name": "@enrypase/solidstart-endpoint",
+  "version": "0.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Enrypase",
   "license": "ISC",
-  "description": "",
+  "description": "Making solid start endpoint typesafe",
   "dependencies": {
     "@solidjs/start": "^1.0.6",
     "jsonwebtoken": "^9.0.2",
@@ -16,5 +16,18 @@
   },
   "devDependencies": {
     "@types/node": "^22.8.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enrypase/solidstart-endpoint.git"
+  },
+  "keywords": [
+    "solidjs",
+    "solid-start",
+    "apis"
+  ],
+  "bugs": {
+    "url": "https://github.com/Enrypase/solidstart-endpoint/issues"
+  },
+  "homepage": "https://github.com/Enrypase/solidstart-endpoint#readme"
 }
